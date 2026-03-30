@@ -1,6 +1,6 @@
 # Hi, I'm Neil! 👋
 
-I am a **Bachelor of Science in Statistics** student at **Rizal Technological University (RTU)** and an aspiring **Data Analyst**. I am passionate about transforming complex datasets into actionable insights, with a particular interest in socio-economic data and financial analysis.
+I am a **Bachelor of Science in Statistics** student at **Rizal Technological University (RTU)** and an aspiring **Data Analyst**. I am passionate about transforming complex datasets into actionable insights.
 
 ---
 
@@ -21,19 +21,8 @@ I am a **Bachelor of Science in Statistics** student at **Rizal Technological Un
 
 ---
 
-## 🔭 Currently Working On
-- Completing my final year at **RTU**.
-- Deepening my SQL skills through the **8-Week SQL Challenge** (inspired by Katie Huang!).
-- Seeking an **Internship** in Data Science or Actuarial Analysis.
-
----
-
 ## 📫 Let's Connect!
-- **LinkedIn:** [Your Profile Link Here]
-- **Email:** [Your Email Here]
+- **LinkedIn:** [Neil Lenard Lacson](https://www.linkedin.com/in/neil-lenard-lacson-620b8229b/)
+- **Email:** [neilnoscal06@gmail.com](mailto:neilnoscal06@gmail.com)
 - **Location:** Antipolo, Philippines 📍
 
----
-
-### ⚡ Fun Fact
-When I'm not wrangling data, you'll probably find me building the perfect team in **Pokémon LeafGreen** or managing my farm in **Harvest Moon**.
