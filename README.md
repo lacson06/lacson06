@@ -5,9 +5,9 @@ I am a **Bachelor of Science in Statistics** student at **Rizal Technological Un
 ---
 
 ## 🛠️ My Toolbox
-- **Languages:** Python (Pandas, NumPy, Matplotlib), R (Tidyverse), SQL
+- **Languages:** Python (Pandas), R (Tidyverse), SQL
 - **Tools:** Power BI, Tableau, Excel
-- **Statistics:** Hypothesis Testing, Regression Analysis, Risk Assessment
+- **Skills:** Root-Cause Analysis, Data Storytelling
 
 ---
 
@@ -15,8 +15,6 @@ I am a **Bachelor of Science in Statistics** student at **Rizal Technological Un
 
 | Project Name | Tools | Description |
 | :--- | :--- | :--- |
-| 🎓 **Impact Analysis of "AKAP"** | R / Python | My Undergraduate Thesis: Analyzing the socio-economic impact of the AKAP program using statistical modeling. |
-| 🛒 **E-commerce Case Study** | Python | Cleaned and analyzed retail sales data to identify seasonal trends and customer segments. |
 | 📉 **Financial Risk Assessment** | Excel / SQL | Investigating interest rates and economic indicators to assess market volatility. |
 
 ---
