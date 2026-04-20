@@ -15,9 +15,9 @@ I am passionate about numbers. I love crunching complex datasets to interpret an
 
 | Project Name | Tools | Description |
 | :--- | :--- | :--- |
-| 📉 **[Python Projects].(https://github.com/lacson06/Python-Projects)** | Python | Demonstrating proficiency in Python including data manipulation with Pandas and automated data cleaning.
-| **[Odds Scraper].(https://github.com/lacson06/Odds-Scraper)** |Python (Pandas, Numpy, Scrapy)| Automated retrieval of data and data processing
-| **[Excel Projects].(https://github.com/lacson06/Excel-Projects-)** |Python (Pandas, Numpy, Scrapy)| Demonstrating mastery in Excel: Transforming raw datasets into visualizations.
+| 🐍 **[Python Projects](https://github.com/lacson06/Python-Projects)** | Python, Pandas | Demonstrating proficiency in Python including data manipulation with Pandas and automated data cleaning. |
+| 🕷️ **[Odds Scraper](https://github.com/lacson06/Odds-Scraper)** | Python, Scrapy, Numpy | Automated retrieval of data and data processing to identify market trends and probabilities. |
+| 📊 **[Excel Projects](https://github.com/lacson06/Excel-Projects-)** | Excel, Power Query | Demonstrating mastery in Excel: Transforming raw datasets into dynamic visualizations and insights. |
 
 
 
