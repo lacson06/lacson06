@@ -1,6 +1,6 @@
 # Hi, I'm Neil! 👋
 
-I am a **Bachelor of Science in Statistics** student at **Rizal Technological University (RTU)** and an aspiring **Data Analyst**. I am passionate about transforming complex datasets into actionable insights.
+I am passionate about numbers. I love crunching complex datasets to interpret and produce meaningful insights that help organizations make big adjustments and drive sustainable growth.
 
 ---
 
@@ -15,7 +15,12 @@ I am a **Bachelor of Science in Statistics** student at **Rizal Technological Un
 
 | Project Name | Tools | Description |
 | :--- | :--- | :--- |
-| 📉 **Financial Risk Assessment** | Excel / SQL | Investigating interest rates and economic indicators to assess market volatility. |
+| 📉 **[Python Projects].(https://github.com/lacson06/Python-Projects)** | Python | Demonstrating proficiency in Python including data manipulation with Pandas and automated data cleaning.
+| **[Odds Scraper].(https://github.com/lacson06/Odds-Scraper)** |Python (Pandas, Numpy, Scrapy)| Automated retrieval of data and data processing
+| **[Excel Projects].(https://github.com/lacson06/Excel-Projects-)** |Python (Pandas, Numpy, Scrapy)| Demonstrating mastery in Excel: Transforming raw datasets into visualizations.
+
+
+
 
 ---
 
